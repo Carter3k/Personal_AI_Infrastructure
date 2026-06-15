@@ -34,6 +34,12 @@ Transformative capabilities — in AI, robotics, fabrication — should be avail
 
 Human-centered design · futures thinking and forecasting · emerging technology (AI, robotics, fabrication) · makerspace tooling · product management · societal trends and sentiments · entrepreneurship
 
+## AI & Agent Toolchain
+
+- **Claude** (Anthropic) — primary reasoning and orchestration model; the DA's backbone
+- **Hermes** (NousResearch) — open-source model optimized for tool use and function calling; target for local/frugal agent workflows
+- **Goal:** Master orchestration of Claude + Hermes together for makerspace, design, and fabrication use cases — not general AI usage, but purpose-built workflows
+
 ## Inspirations & Reference Models
 
 - **Meow Wolf** — experience design built from humble, community-driven, collectively-owned beginnings; proof that a small creative group with a shared vision and a makerspace mentality can produce transformative, institutional-scale experiences without starting with institutional resources.
