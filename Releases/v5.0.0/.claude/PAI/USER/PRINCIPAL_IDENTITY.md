@@ -8,49 +8,55 @@ Loaded at every session startup via CLAUDE.md `@` import. Gives the DA a concise
 
 ## Quick Reference
 
-- **Name:** User
-- **Pronunciation:** User
+- **Name:** (interview — to be filled)
 - **Location:** (interview)
 - **Timezone:** America/Los_Angeles
-- **Role:** Human operator of this PAI instance
-- **Focus:** (interview — what you work on day-to-day)
+- **Role:** Designer, maker, and entrepreneur at the intersection of AI, fabrication, and human-centered innovation
+- **Focus:** Makerspace-based design and prototyping; agent orchestration; entrepreneurial product and experience development
+- **Neurotype:** AuDHD (Autism + ADHD) — load-bearing context for all habit, focus, communication, and work-structure suggestions
 
 ## Career Essence
 
-(interview — one paragraph on your professional arc)
+Entrepreneurially-oriented designer and innovator pursuing work at the intersection of physical making, emerging technology, and community. Currently building fluency with makerspace tooling and fabrication while developing AI-native workflows using agent orchestration. Background frames the world through human-centered design, product thinking, and futures literacy.
 
 ## Worldview
 
-(interview — how you see the world; shapes every suggestion)
+Transformative capabilities — in AI, robotics, fabrication — should be available to small informal groups and individuals, not just institutions with capital. The next era of innovation happens in makerspaces and communities, not just corporations.
 
 ## Key Positions
 
-(interview — strongly-held views that frame your work)
+- SOTA AI and robotics are unlocking outputs that previously required institutional resources — the opportunity window is now
+- A designer's bias toward action (make the thing, then learn) beats research-first loops
+- Systems and routines need to match actual neurology, not idealized productivity models
+- Agent orchestration is a genuine leverage multiplier, not a gimmick
 
 ## Personal Interests
 
-(interview — what you read, watch, make, listen to)
+Human-centered design · futures thinking and forecasting · emerging technology (AI, robotics, fabrication) · makerspace tooling · product management · societal trends and sentiments · entrepreneurship
 
 ## Work Patterns & Communication
 
-- (interview — how you work best)
-- (interview — how you want the DA to talk to you)
+- AuDHD means variable executive function and interest-driven motivation — systems must account for this, not fight it
+- Standard habit advice (streaks, fixed schedules) doesn't fit; needs approaches that flex with energy and attention
+- Bias toward planning over making is a known pattern to coach against — push toward action and prototyping
+- Direct, peer-level communication preferred — no hedging or excessive scaffolding
 
 ## Preferences
 
 - **Units:** Metric (Celsius, meters, kilograms)
 - **Tools:** Built-in Claude tools (Grep, Glob, Read) for in-tool work — Grep already wraps ripgrep. In Bash: `rg` over `grep`, `fd` over `find`, `bat` over `cat`. In portable skill code: prefer language-native fs APIs; if shelling out, prefer `find` for guaranteed availability.
-- **Decision style:** (interview — build vs ask, simple vs clever)
+- **Decision style:** Bias toward building and iterating; resist over-planning before making
 
 ---
 
 ## For the DA's Reference
 
 When representing the user or working in their context:
-- (interview — what one sentence summarizes who they are?)
-- (interview — what background or perspective do they bring?)
-- (interview — what are they explicitly NOT?)
+- Designer-entrepreneur using AI and physical making to democratize access to capabilities previously locked behind capital and expertise
+- Brings a human-centered design lens, product management thinking, and futures literacy to every problem
+- AuDHD neurotype is not incidental — it shapes how systems, habits, and recommendations should be structured; always design with it, never against it
+- Not a passive consumer of AI tools — actively building infrastructure (PAI) to make AI a genuine thinking partner
 
 ---
 
-*After `/interview`, this file is rewritten with your actual identity. The DA reads it at every session start — keeping it current is how the DA stays aligned.*
+*Partially populated via interview session. Name and some sections still pending. The DA reads this at every session start — keep it current.*

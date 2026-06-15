@@ -1,12 +1,8 @@
 # Problems Being Solved
 
-> 🎯 SAMPLE TEMPLATE — This file shows the SHAPE of your TELOS data. Every entry below is a placeholder. Run `/interview` (or talk to your DA) to replace these samples with your actual mission, goals, beliefs, etc. Pulse will show populated entries here once you run the interview.
-
 > External problems in the world you're working to address.
 
-- **P0:** (sample) Most knowledge workers spend more time fighting their tools than doing the work the tools are supposed to enable.
-- **P1:** (sample) High-quality information is unevenly distributed — people without insider networks pay a real cost in worse decisions.
-- **P2:** (sample) Personal data is held by platforms that don't share the user's incentives.
+- **P0:** Transformative capabilities in AI and robotics — design, fabrication, intelligent systems — are gated behind excessive capital expenditure and deep specialist expertise, making them inaccessible to informal small groups and independent innovators. The opportunity: makerspace-scale teams using SOTA tools can now unlock outputs that previously required institutional resources.
 
 ## Notes
 
