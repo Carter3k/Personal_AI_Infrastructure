@@ -1,12 +1,10 @@
 # Narratives
 
-> 🎯 SAMPLE TEMPLATE — This file shows the SHAPE of your TELOS data. Every entry below is a placeholder. Run `/interview` (or talk to your DA) to replace these samples with your actual mission, goals, beliefs, etc. Pulse will show populated entries here once you run the interview.
-
 > The stories you tell yourself (and others) about the world — the frames your work operates within.
 
-- **N0:** (sample) I build tools that move power from institutions to individuals.
-- **N1:** (sample) The next decade rewards people who can ship working software end-to-end without waiting for a team.
-- **N2:** (sample — conference one-liner) I'm a [your craft] who helps [your audience] do [your outcome].
+- **N0:** I'm putting capabilities that used to require institutional budgets into the hands of small, creative groups — through AI, robotics, and physical making at the makerspace scale.
+- **N1:** The next era of innovation is happening in communities and makerspaces, not just corporations — small teams close to real problems, using SOTA tools, are the edge.
+- **N2 (one-liner):** I'm a designer and maker working at the intersection of human creativity, emerging technology, and community — building what becomes possible when you stop waiting for permission or resources.
 
 ## Notes
 
