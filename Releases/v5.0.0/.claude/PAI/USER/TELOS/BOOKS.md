@@ -1,22 +1,33 @@
 # Favorite Books
 
-> 🎯 SAMPLE TEMPLATE — This file shows the SHAPE of your TELOS data. Every entry below is a placeholder. Run `/interview` (or talk to your DA) to replace these samples with your actual mission, goals, beliefs, etc. Pulse will show populated entries here once you run the interview.
-
 > Books that shaped how you think — a compact reading fingerprint.
 
-## Categories (suggested)
+## Human-Centered Design & Creativity
 
-### Reshaped my worldview
-- (sample) A foundational systems-thinking book you'd recommend to anyone.
-- (sample) A philosophy or ethics book that changed how you weigh decisions.
+- IDEO / Stanford d.school canon — the HCD methodology that frames how you approach problems
+- *Change by Design* — Tim Brown (IDEO)
+- *Designing Your Life* — Dave Evans & Bill Burnett (Stanford d.school)
 
-### Changed how I work
-- (sample) A craft / creativity book that improved your daily practice.
-- (sample) A business or strategy book whose mental model you still use.
+## Mind, Brain & Psychology
 
-### Purely enjoyable
-- (sample) A novel or memoir you re-read.
-- (sample) A genre book that's pure fun for you.
+- *The Brain That Changes Itself* — Norman Doidge (neuroplasticity)
+- Oliver Sacks — neurological case studies; the mind as something to understand and work with, not against
+- Psychology Today, scientific publications, and scholarly papers — ongoing diet, not just books
+
+## Philosophy & Wellbeing
+
+- *The Art of Happiness* — Dalai Lama
+
+## Productivity, Strategy & Creativity
+
+- Books on productivity, strategy, creativity, and art (ongoing — no single canonical title)
+
+## Fiction
+
+- *Slaughterhouse-Five* — Kurt Vonnegut
+- *Children of Time* series — Adrian Tchaikovsky (sci-fi)
+- *We Are Bob* (Bobiverse series) — Dennis E. Taylor (sci-fi)
+- *Les Misérables* — Victor Hugo
 
 ---
 *The DA uses book affinities to calibrate recommendations — if a concept comes from a book you already know, the DA can reference that shared vocabulary instead of re-explaining from scratch.*
