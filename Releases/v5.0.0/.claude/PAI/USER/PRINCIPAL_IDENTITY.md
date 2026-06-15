@@ -34,6 +34,10 @@ Transformative capabilities — in AI, robotics, fabrication — should be avail
 
 Human-centered design · futures thinking and forecasting · emerging technology (AI, robotics, fabrication) · makerspace tooling · product management · societal trends and sentiments · entrepreneurship
 
+## Inspirations & Reference Models
+
+- **Meow Wolf** — experience design built from humble, community-driven, collectively-owned beginnings; proof that a small creative group with a shared vision and a makerspace mentality can produce transformative, institutional-scale experiences without starting with institutional resources.
+
 ## Making & Fabrication Toolchain
 
 Actively learning and building fluency in:

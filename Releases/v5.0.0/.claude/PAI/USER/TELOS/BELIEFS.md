@@ -12,7 +12,7 @@
 
 ## Provisional Beliefs
 
-- The makerspace is the new garage startup — small groups doing physical + digital work in shared spaces may be the creative unit of the next era, provisional.
+- The makerspace is the new garage startup — small groups doing physical + digital work in shared spaces may be the creative unit of the next era. Meow Wolf is the reference model: community-owned, collectively-driven, started with almost nothing, produced transformative experiences at scale. Provisional in size of impact, not in direction.
 - Systems that don't account for neurodiversity are leaving enormous capability on the table — AuDHD and similar profiles are assets in certain environments, liabilities in others; the difference is system design, not the person.
 
 ---
