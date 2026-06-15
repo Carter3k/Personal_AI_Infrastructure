@@ -8,7 +8,7 @@ Loaded at every session startup via CLAUDE.md `@` import. Gives the DA a concise
 
 ## Quick Reference
 
-- **Name:** (interview — to be filled)
+- **Name:** Zachary Carter Becker | **Goes by:** Zachary (or Zach)
 - **Location:** (interview)
 - **Timezone:** America/Los_Angeles
 - **Role:** Designer, maker, and entrepreneur at the intersection of AI, fabrication, and human-centered innovation
