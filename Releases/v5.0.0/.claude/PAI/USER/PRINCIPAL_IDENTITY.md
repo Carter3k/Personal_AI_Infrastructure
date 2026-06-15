@@ -34,6 +34,16 @@ Transformative capabilities — in AI, robotics, fabrication — should be avail
 
 Human-centered design · futures thinking and forecasting · emerging technology (AI, robotics, fabrication) · makerspace tooling · product management · societal trends and sentiments · entrepreneurship
 
+## Making & Fabrication Toolchain
+
+Actively learning and building fluency in:
+- **Generative design** — algorithmically-driven form and structure exploration
+- **CAD** — parametric 3D modeling for fabrication-ready outputs
+- **Blender** — 3D modeling, rendering, and generative workflows
+- **Makerspace fabrication** — 3D printing, laser cutting, CNC, and related physical output processes
+
+Goal: close the loop from generative/AI-assisted design → digital model → physical prototype using makerspace equipment.
+
 ## Work Patterns & Communication
 
 - AuDHD means variable executive function and interest-driven motivation — systems must account for this, not fight it

@@ -13,7 +13,7 @@
 
 - **G0 (Health):** Build a sustainable daily habit of 15 mins minimum medium-to-high MET physical activity (cardio + weight training), designed to work with AuDHD — measurable: daily consistency, no multi-day gaps.
 - **G1 (Mental):** Learn and adapt approach to life and work following AuDHD diagnosis — shifting from a 10-year ADHD+MDD treatment framework to one that fits actual neurotype — measurable: new systems and routines in place and functioning.
-- **G2 (Skills):** Learn makerspace tools (fabrication, prototyping equipment) and develop a designer's bias toward action — measurable: completing tangible objects/prototypes.
+- **G2 (Skills):** Build fluency with generative design, CAD, and Blender to prototype and fabricate physical objects at a makerspace — measurable: completing tangible objects/prototypes that go from digital model to physical output.
 - **G3 (Learning):** Develop effective use of agent orchestration — measurable: functional multi-agent workflows running inside PAI.
 - **G4 (Professional):** To be defined.
 
