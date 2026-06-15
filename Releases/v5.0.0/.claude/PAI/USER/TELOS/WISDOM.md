@@ -1,13 +1,9 @@
 # Wisdom
 
-> 🎯 SAMPLE TEMPLATE — This file shows the SHAPE of your TELOS data. Every entry below is a placeholder. Run `/interview` (or talk to your DA) to replace these samples with your actual mission, goals, beliefs, etc. Pulse will show populated entries here once you run the interview.
-
 > Hard-won insights you keep coming back to — the distilled output of years of living.
 
-- (sample) The thing you're avoiding is usually the thing that would move the needle.
-- (sample) Slow is smooth, smooth is fast — rushing the foundation costs more time than it saves.
-- (sample) Most "decisions" are actually defaults you haven't noticed.
-- (sample) If you can't explain it to a smart twelve-year-old, you don't understand it well enough yet.
+- There are many types of minds and personalities — each with different strengths and deficits — individually incapable of what could be achieved masterfully by a cooperative group of different minds with the right mindframes and methods of strategy.
+- Systems designed for the average mind exclude the minds most capable of exceptional outputs.
 
 ## Format
 

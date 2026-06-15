@@ -1,48 +1,60 @@
-# Principal TELOS — User
+# Principal TELOS — Zachary Carter Becker
 
-> 🎯 SAMPLE TEMPLATE — This file shows the SHAPE of your TELOS data. Every entry below is a placeholder. Run `/interview` (or talk to your DA) to replace these samples with your actual mission, goals, beliefs, etc. Pulse will show populated entries here once you run the interview.
-
-> Auto-generated from TELOS source files (MISSION, GOALS, PROBLEMS, STRATEGIES, NARRATIVES, CHALLENGES, etc). Do not edit manually — rerun `bun PAI/TOOLS/GenerateTelosSummary.ts` after updating any TELOS/*.md file.
-
-> This is a bootstrap scaffold. After running `/interview` and filling in TELOS/*.md files, regenerate this summary. The DA loads it at every session start — keeping it current is how the DA stays aligned with your actual goals and constraints.
+> Auto-generated from TELOS source files. Do not edit manually.
+> Generated: 2026-06-15 | Sources: MISSION, GOALS, PROBLEMS, STRATEGIES, NARRATIVES, CHALLENGES, BELIEFS, WISDOM
+> Regenerate after any TELOS update: `bun PAI/TOOLS/GenerateTelosSummary.ts`
 
 ## Missions
 
-- (sample) M0: Help one million people make better decisions through accessible AI tools.
-- (sample) M1: Build infrastructure that lets individuals own their data and AI.
+- **M0:** Create a thinking partner and digital assistant that enables professional development and personal growth.
+- **M1 (north-star):** Pursue an entrepreneurial journey designing, prototyping, and fabricating products, interactions, experiences, and equipment — at a makerspace, in the community, and online — with a DA that thinks alongside me as an expert in human-centered design, innovation, product management, futures thinking, emerging technology, and societal trends.
 
-## Active Goals
+## Active Goals (2026)
 
-- (sample) G0: Ship MVP of Project X by 2026-Q2 — measurable: 100 daily active users.
-- (sample) G1: Publish 24 newsletter issues this year — one every other Sunday.
+- **G0 (Health):** Build a sustainable daily habit of 15 mins minimum medium-to-high MET physical activity (cardio + weight training), designed to work with AuDHD — measurable: daily consistency, no multi-day gaps.
+- **G1 (Mental):** Learn and adapt approach to life and work following AuDHD diagnosis — shifting from a 10-year ADHD+MDD treatment framework to one that fits actual neurotype — measurable: new systems and routines in place and functioning.
+- **G2 (Skills):** Build fluency with generative design, CAD, and Blender to prototype and fabricate physical objects at a makerspace — measurable: completing tangible objects/prototypes that go from digital model to physical output.
+- **G3 (Learning):** Master Claude and Hermes agent orchestration for personal use — measurable: functional multi-agent workflows running inside PAI that leverage both models for their respective strengths.
+- **G4 (Professional):** To be defined.
 
 ## Problems Being Solved
 
-- (sample) P0: Most knowledge workers spend more time fighting their tools than doing the work.
-- (sample) P1: High-quality information is unevenly distributed.
+- **P0:** Transformative capabilities in AI and robotics — design, fabrication, intelligent systems — are gated behind excessive capital expenditure and deep specialist expertise, making them inaccessible to informal small groups and independent innovators. The opportunity: makerspace-scale teams using SOTA tools can now unlock outputs that previously required institutional resources.
 
 ## Strategies
 
-- (sample) S0: Ship the crappy version, then iterate in public.
-- (sample) S1: Write before building.
+- **S0 (Stay in pulse):** Maintain active contact with communities and groups — social listening, trend investigation, public sentiment measurement — to spot unserved needs before they're obvious.
+- **S1 (Human creativity at every step):** Design thinking, divergent thinking, crowdsourcing, and open ideation at every stage — HUMAN CREATIVITY AT EVERY STEP — before converging or automating.
+- **S2 (Exploit the moment):** Position at the leading edge of what's newly possible. Frugal tech, ubiquitous materials, rapidly advancing AI/robotics — small teams can now access what institutions owned before.
+- **S3 (Data as sensing):** Web scraping, aggregation, and sentiment analysis as practical tools for staying ahead of cultural and market shifts and informing design with real signal.
 
 ## Active Narratives
 
-- (sample) N0: I build tools that move power from institutions to individuals.
+- **N0:** Putting capabilities that used to require institutional budgets into the hands of small, creative groups — through AI, robotics, and physical making at the makerspace scale.
+- **N1:** The next era of innovation is happening in communities and makerspaces, not just corporations — small teams close to real problems, using SOTA tools, are the edge.
+- **N2 (one-liner):** Designer and maker working at the intersection of human creativity, emerging technology, and community — building what becomes possible when you stop waiting for permission or resources.
 
 ## Personal Challenges
 
-- (sample) C0: I start more projects than I finish.
-- (sample) C1: I avoid hard conversations until they get harder.
+- **C0 (Neurotype — load-bearing):** AuDHD (Autism + ADHD) — diagnosed after ~10 years of treatment framed as ADHD + MDD. Requires rebuilding systems, routines, and strategies from scratch to match actual neurotype. This context is relevant to every suggestion about habits, focus, communication, and work structure.
+- **C1 (Habit formation):** Standard habit advice (streaks, fixed schedules) doesn't work with AuDHD — needs approaches that account for variable executive function, sensory regulation, and interest-driven motivation.
+- **C2 (Bias toward planning over making):** Tendency to research and plan rather than build and iterate — actively working against this.
 
-## Core Models
+## Core Beliefs
 
-- (sample) Systems thinking: most problems are structural, not personal.
-- (sample) Compounding: small consistent inputs beat heroic sprints over a long horizon.
+- We are in a civilization-altering technological window — AI, robotics, and advanced fabrication compress what used to require institutional scale into what small creative groups can now do.
+- Human creativity is non-negotiable at every step — automation amplifies human creative input; it doesn't replace the human in the loop.
+- Unserved markets are abundant — the edge is where the opportunity is.
+- The constraints of this moment are themselves an advantage — frugal tech and ubiquitous materials mean the moat is no longer capital; it's creativity and community proximity.
+
+## Wisdom
+
+- There are many types of minds and personalities — each with different strengths and deficits — individually incapable of what could be achieved masterfully by a cooperative group of different minds with the right mindframes and methods of strategy.
+- Systems designed for the average mind exclude the minds most capable of exceptional outputs.
 
 ## Context Filter
 
-When steering work, bias toward: (sample — what makes this user distinctive when the DA is picking between options. Examples: long-horizon thinking, building over consuming, open-source over proprietary, depth over breadth).
+When steering work, bias toward: human creativity at every step · community proximity over institutional distance · making over planning · SOTA methods applied at small-group scale · AuDHD-compatible systems (variable executive function, interest-driven, sensory-aware) · depth over breadth · long-horizon thinking.
 
 ---
 *This file is the DA's compressed view of who you are and what you're trying to do. The Algorithm uses it to prioritize, the Advisor uses it to catch drift, and every skill uses it to tailor recommendations. Regenerate after every TELOS update so the summary stays in sync.*

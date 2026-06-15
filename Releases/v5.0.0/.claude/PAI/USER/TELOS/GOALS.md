@@ -1,23 +1,14 @@
 # Goals
 
-> 🎯 SAMPLE TEMPLATE — This file shows the SHAPE of your TELOS data. Every entry below is a placeholder. Run `/interview` (or talk to your DA) to replace these samples with your actual mission, goals, beliefs, etc. Pulse will show populated entries here once you run the interview.
-
 > Outcomes you're actively working toward — each has measurable criteria.
 
 ## Active
 
-- **G0:** (sample) Ship MVP of Project X by 2026-Q2 — measurable: 100 daily active users.
-- **G1:** (sample) Publish 24 newsletter issues this year — measurable: one every other Sunday, no skipped weeks.
-- **G2:** (sample) Reach a sustainable monthly revenue target — measurable: $X MRR by end of year.
-
-## Deferred / Ongoing
-
-- (sample) Maintain a 3x/week strength routine — ongoing, no end date.
-- (sample) Open-source side library — deferred until Q4 after Project X ships.
-
-## Completed This Year
-
-- (sample) Migrated personal site to new stack — done 2026-Q1.
+- **G0 (Health):** Build a sustainable daily habit of 15 mins minimum medium-to-high MET physical activity (cardio + weight training), designed to work with AuDHD — measurable: daily consistency, no multi-day gaps.
+- **G1 (Mental):** Learn and adapt approach to life and work following AuDHD diagnosis — shifting from a 10-year ADHD+MDD treatment framework to one that fits actual neurotype — measurable: new systems and routines in place and functioning.
+- **G2 (Skills):** Build fluency with generative design, CAD, and Blender to prototype and fabricate physical objects at a makerspace — measurable: completing tangible objects/prototypes that go from digital model to physical output.
+- **G3 (Learning):** Master Claude and Hermes agent orchestration for personal use — measurable: functional multi-agent workflows running inside PAI that leverage both models for their respective strengths.
+- **G4 (Professional):** (to be defined — professional development goal TBD)
 
 ---
 *Goals are ISC-bearing (measurable success criteria). "Ship X by date Y" is a goal; "be better at X" is a wish. The DA uses this list to prioritize suggestions — if a request doesn't serve an active goal, it gets flagged.*

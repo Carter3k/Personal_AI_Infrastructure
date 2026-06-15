@@ -1,12 +1,9 @@
 # Mission
 
-> 🎯 SAMPLE TEMPLATE — This file shows the SHAPE of your TELOS data. Every entry below is a placeholder. Run `/interview` (or talk to your DA) to replace these samples with your actual mission, goals, beliefs, etc. Pulse will show populated entries here once you run the interview.
-
 > What you're here to do — the most durable north star.
 
-- **M0:** (sample) Help one million people make better decisions through accessible AI tools.
-- **M1:** (sample) Build infrastructure that lets individuals own their data and AI.
-- **M2:** (sample — aspirational, optional) Leave behind work that's still useful 50 years after I'm gone.
+- **M0:** Create a thinking partner and digital assistant that enables my professional development and personal growth.
+- **M1 (north-star):** Pursue an entrepreneurial journey designing, prototyping, and fabricating products, interactions, experiences, and equipment — at a makerspace, in the community, and online — with a DA that thinks alongside me as an expert in human-centered design, innovation, product management, futures thinking, emerging technology, and societal trends.
 
 ## Notes
 
